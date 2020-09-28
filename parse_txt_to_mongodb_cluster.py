@@ -2,7 +2,7 @@ import pymongo
 import json
 from mongo_to_geojson import mongo_to_geojson 
 
-#connection = pymongo.MongoClient("83.212.78.113", 27017)
+#connection = pymongo.MongoClient("localhost", 27017)
 #collection = connection.mongodb.geo
 #collection1 = connection.mongodb.geotextualindex
 #collection2 = connection.mongodb.geoindexbigdata
